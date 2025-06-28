@@ -1,0 +1,9 @@
+{
+  "name": "EV-03",
+  "description": "Secure Telephone Directory with admin access.",
+  "difficulty": "medium",
+  "category": "web",
+  "url": "http://localhost:3000",
+  "flag": "ev{5f7fba0db5ba58f5831c21a5bfaad84d}",
+  "files": "application/"
+}

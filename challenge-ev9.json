@@ -1,0 +1,9 @@
+{
+  "name": "EV-09",
+  "description": "A simple plug in comment section for your blog.",
+  "difficulty": "easy",
+  "category": "web",
+  "url": "http://localhost:3000",
+  "flag": "alert: perform alert() on challenge origin",
+  "files": "application/"
+}

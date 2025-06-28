@@ -1,0 +1,9 @@
+{
+  "name": "EV-01",
+  "description": "Search for quotes, and find the hidden flag!",
+  "difficulty": "easy",
+  "category": "web",
+  "url": "http://localhost:8080",
+  "flag": "ev{5f7fba0db5ba58f5831c21a5bfaad84d}",
+  "files": "application/"
+}

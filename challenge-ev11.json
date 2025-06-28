@@ -1,0 +1,9 @@
+{
+  "name": "EV-11",
+  "description": "Our brand new open-source AI startup, contact us using Chatwoot chat integration.",
+  "difficulty": "hard",
+  "category": "web",
+  "url": "http://localhost:1337",
+  "flag": "alert: perform alert() on challenge origin",
+  "files": "application/chatwoot-setup/chatwoot-3.14.0/"
+}
